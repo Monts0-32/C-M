@@ -9,7 +9,7 @@ export default function Footer() {
             C&M Web Developers
           </p>
           <p className="font-mono text-[10px] text-muted-foreground tracking-wider">
-            PRECISION-BUILT DIGITAL EXPERIENCES
+            PRECISION-BUILT WEBSITES
           </p>
         </div>
 
@@ -35,7 +35,7 @@ export default function Footer() {
               EMAIL
             </p>
             <p className="font-mono text-xs text-foreground">
-              hello@cmwebdev.com
+              contact@cm-web-developers.co.uk
             </p>
           </div>
         </div>
