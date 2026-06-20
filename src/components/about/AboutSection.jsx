@@ -31,12 +31,6 @@ export default function AboutSection() {
               We don't just build websites; we design high-converting digital storefronts and clean user interfaces tailored to help your business grow effortlessly in a modern digital economy.
             </p>
             <p className="font-mono text-sm text-muted-foreground leading-[1.8]">
-              We bridge the gap between creative visual design and secure, scalable web engineering. By leveraging cutting-edge development workflows, we bypass the overhead and slow turnaround times of traditional agencies—delivering sleek, professional web assets quickly and precisely.
-              Our core focus centers on two foundational pillars:
-
-              - Sleek, Responsive Design: Crafting custom layout frameworks optimized across all standard desktop, tablet, and mobile viewports to ensure seamless visual consistency and user engagement.
-
-              - Modern Cloud Deployment: Architecting clean, production-ready code pushed directly to global serverless clouds like Cloudflare. This ensures lightning-fast global load speeds, advanced edge caching, and robust security baseline configurations.
             </p>
           </div>
         </motion.div>
