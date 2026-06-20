@@ -4,17 +4,6 @@ import { motion } from "framer-motion";
 export default function HeroSection() {
   const [time, setTime] = useState("");
 
-  useEffect(() => {
-    const tick = () => {
-      const now = new Date();
-      setTime(
-        now.toUTCString().split(" ").slice(4, 5).join("") + " UTC"
-      );
-    };
-    tick();
-    const id = setInterval(tick, 1000);
-    return () => clearInterval(id);
-  }, []);
 
   const scrollToContact = () => {
     const el = document.querySelector("#contact");
@@ -43,7 +32,7 @@ export default function HeroSection() {
           <br />
           BUILT
           <br />
-          <span className="text-muted-foreground">EXPERIENCES</span>
+          <span className="text-muted-foreground">WEBSITES/span>
         </h1>
       </motion.div>
 
