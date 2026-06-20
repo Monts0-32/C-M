@@ -1,4 +1,4 @@
-/* <--- REMOVE WHEN USING
+
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
@@ -24,7 +24,7 @@ export default function ProjectCard({ project, index }) {
           }`}
         />
 
-        {/* Hover overlay */ /* <--- REMOVE WHEN USING} 
+        {/* Hover overlay */} 
         <div
           className={`absolute inset-0 bg-background/80 backdrop-blur-sm flex flex-col justify-end p-6 transition-opacity duration-500 ${
             hovered ? "opacity-100" : "opacity-0"
@@ -62,4 +62,4 @@ export default function ProjectCard({ project, index }) {
       </div>
     </motion.div>
   );
-*/
+
