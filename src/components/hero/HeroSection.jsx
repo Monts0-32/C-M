@@ -32,7 +32,7 @@ export default function HeroSection() {
           <br />
           BUILT
           <br />
-          <span className="text-muted-foreground">WEBSITES/span>
+          <span className="text-muted-foreground">WEBSITES</span>
         </h1>
       </motion.div>
 
