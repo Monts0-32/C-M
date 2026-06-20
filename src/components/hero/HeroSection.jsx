@@ -43,7 +43,7 @@ export default function HeroSection() {
         className="mt-8 md:mt-12 flex flex-col md:flex-row md:items-end justify-between gap-6"
       >
         <p className="font-mono text-xs md:text-sm text-muted-foreground max-w-md leading-relaxed">
-          We design and engineer digital products with obsessive attention to detail, performance, and craft. Every pixel intentional. Every interaction considered.
+          At C&M, we believe that an exceptional digital presence shouldn't require a massive corporate budget or endless development bottlenecks.
         </p>
 
         <button
