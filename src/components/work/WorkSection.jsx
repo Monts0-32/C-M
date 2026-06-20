@@ -12,7 +12,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://imgs.search.brave.com/JD3kDFq0mj93P4aABuTfvloVnkBp6u9q1AQw9gqr3EI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzY4LzQ5Lzg2/LzM2MF9GXzI2ODQ5/ODYzM19OYWU0aXYy/dDdOR1FSMjNLNWlx/dTNSaDFQaUZDTlg2/Yi5qcGc",
+    image: "https://kommodo.ai/i/JgZeZjGu3rxPPVbZeT4D",
   },
   {
     title: "",
@@ -20,7 +20,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://imgs.search.brave.com/JD3kDFq0mj93P4aABuTfvloVnkBp6u9q1AQw9gqr3EI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzY4LzQ5Lzg2/LzM2MF9GXzI2ODQ5/ODYzM19OYWU0aXYy/dDdOR1FSMjNLNWlx/dTNSaDFQaUZDTlg2/Yi5qcGc",
+    image: "https://kommodo.ai/i/FJXz1OoaKLpDoAcxWrSl",
   },
   {
     title: "",
@@ -28,7 +28,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://imgs.search.brave.com/JD3kDFq0mj93P4aABuTfvloVnkBp6u9q1AQw9gqr3EI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzY4LzQ5Lzg2/LzM2MF9GXzI2ODQ5/ODYzM19OYWU0aXYy/dDdOR1FSMjNLNWlx/dTNSaDFQaUZDTlg2/Yi5qcGc",
+    image: "https://kommodo.ai/i/uMMOSAqtnMaliL0tp7G5",
   },
   {
     title: "",
@@ -36,7 +36,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://imgs.search.brave.com/JD3kDFq0mj93P4aABuTfvloVnkBp6u9q1AQw9gqr3EI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzY4LzQ5Lzg2/LzM2MF9GXzI2ODQ5/ODYzM19OYWU0aXYy/dDdOR1FSMjNLNWlx/dTNSaDFQaUZDTlg2/Yi5qcGc",
+    image: "https://kommodo.ai/i/JgZeZjGu3rxPPVbZeT4D",
   },
 ];
 
