@@ -6,8 +6,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 const planDetails = {
-  Basic: "Basic Package — £200",
-  Advanced: "Advanced Package — £400",
+  Basic: "Basic Package — £300",
+  Advanced: "Advanced Package — £500",
 };
 
 export default function Order() {
