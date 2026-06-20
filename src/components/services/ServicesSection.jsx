@@ -7,29 +7,29 @@ const services = [
     label: "Phase 01",
     title: "Discovery & Strategy",
     description:
-      "We begin every engagement with deep research into your market, users, and goals. This phase produces a comprehensive blueprint that aligns business objectives with technical architecture.",
-    tags: ["UX RESEARCH", "COMPETITIVE AUDIT", "TECHNICAL SPEC"],
+      "Once the initial deposit is paid and we receive the necessary information from you, we will begin researching and planning the design layout for your website.",
+    tags: ["1", "Designing", "Researching"],
   },
   {
     label: "Phase 02",
     title: "Design & Prototyping",
     description:
-      "High-fidelity interface design built on systematic design tokens. We prototype every interaction to ensure pixel-perfect execution before a single line of code is written.",
-    tags: ["UI DESIGN", "MOTION DESIGN", "DESIGN SYSTEMS"],
+      "In phase two, we begin the core development process and start building your custom website.",
+    tags: ["2", "Developing", "Intial Build"],
   },
   {
     label: "Phase 03",
     title: "Engineering & Build",
     description:
-      "Performance-obsessed development using modern frameworks and best practices. Every component is tested, accessible, and optimized for sub-second load times.",
-    tags: ["REACT", "NODE.JS", "CLOUD INFRA"],
+      "In phase three, we add the finishing touches to your website and configure your domain's DNS settings to launch it live on the internet.",
+    tags: ["3", "Domains & DNS", "Configure"],
   },
   {
     label: "Phase 04",
     title: "Launch & Scale",
     description:
-      "Deployment is just the beginning. We provide ongoing performance monitoring, iterative improvements, and infrastructure scaling to grow with your business.",
-    tags: ["CI/CD", "MONITORING", "OPTIMIZATION"],
+      "In phase four, the final half of the invoice is settled and your website is fully wrapped up. Depending on your chosen package, we also provide ongoing support for a limited time to ensure your website runs smoothly and to resolve any issues if they arise.",
+    tags: ["4", "Support", "Deploy"],
   },
 ];
 
