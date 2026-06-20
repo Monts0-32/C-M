@@ -12,7 +12,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://kommodo.ai/i/JgZeZjGu3rxPPVbZeT4D",
+    image: "https://i.postimg.cc/Zq9JXM1k/1.png",
   },
   {
     title: "",
@@ -20,7 +20,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://kommodo.ai/i/FJXz1OoaKLpDoAcxWrSl",
+    image: "https://i.postimg.cc/jdZK2Tbm/2.png",
   },
   {
     title: "",
@@ -28,7 +28,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "https://kommodo.ai/i/uMMOSAqtnMaliL0tp7G5",
+    image: "https://i.postimg.cc/xdbS6bbG/3.png",
   },
   {
     title: "",
