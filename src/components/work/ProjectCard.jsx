@@ -32,15 +32,15 @@ export default function ProjectCard({ project, index }) {
         >
           <div className="font-mono text-[10px] text-muted-foreground tracking-wider space-y-2">
             <div className="flex justify-between">
-              <span>STACK</span>
+              <span>/</span>
               <span>{project.stack}</span>
             </div>
             <div className="flex justify-between">
-              <span>LOAD</span>
+              <span>/</span>
               <span>{project.loadTime}</span>
             </div>
             <div className="flex justify-between">
-              <span>YEAR</span>
+              <span>/</span>
               <span>{project.year}</span>
             </div>
           </div>
