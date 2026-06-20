@@ -62,4 +62,4 @@ export default function ProjectCard({ project, index }) {
       </div>
     </motion.div>
   );
-
+};
