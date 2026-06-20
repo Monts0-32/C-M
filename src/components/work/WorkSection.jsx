@@ -4,6 +4,12 @@ const db = globalThis.__B44_DB__ || { auth:{ isAuthenticated: async()=>false, me
 import React, { useRef } from "react";
 import { motion } from "framer-motion";
 import ProjectCard from "./ProjectCard";
+import firstImg from "./src/components/ui/1.png"; 
+const FIRST_IMG = firstImg;
+import secondImg from "./src/components/ui/2.png"; 
+const SECOND_IMG = secondImg;
+import thirdImg from "./src/components/ui/3.png"; 
+const THIRD_IMG = thirdImg;
 
 const projects = [
   {
@@ -12,7 +18,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "src/components/ui/1.png",
+    image: {FIRST_IMG},
   },
   {
     title: "",
@@ -20,7 +26,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "src/components/ui/2.png",
+    image: {SECOND_IMG},
   },
   {
     title: "",
@@ -28,7 +34,7 @@ const projects = [
     stack: "",
     loadTime: "",
     year: "",
-    image: "src/components/ui/3.png",
+    image: {THIRD_IMG},
   },
   {
     title: "",
