@@ -71,8 +71,8 @@ export default function WorkSection() {
         </motion.p>
       </div>
 
-      {/* Horizontal scroll */}
-/* <------------ WHEN USING REMOVE
+      {/* Horizontal scroll */ /* <--- REMOVE WHEN USING} 
+
       <div
         ref={scrollRef}
         className="flex gap-6 md:gap-8 overflow-x-auto px-6 md:px-12 pb-6 scrollbar-hide"
