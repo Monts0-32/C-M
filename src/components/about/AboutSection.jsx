@@ -2,10 +2,10 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const stats = [
-  { value: "50+", label: "PROJECTS DELIVERED" },
-  { value: "12", label: "YEARS EXPERIENCE" },
-  { value: "0.8s", label: "AVG LOAD TIME" },
-  { value: "100%", label: "CLIENT RETENTION" },
+  { value: "2", label: "Revison Rounds" },
+  { value: "100%", label: "Client Ownership" },
+  { value: "<1.2s", label: "Load Times" },
+  { value: "SSL", label: "Secured" },
 ];
 
 export default function AboutSection() {
@@ -26,16 +26,17 @@ export default function AboutSection() {
           </h2>
           <div className="space-y-6">
             <p className="font-mono text-sm text-muted-foreground leading-[1.8]">
-              C&M Web Developers is a digital engineering studio founded on the
-              principle that great software is invisible — it simply works.
-              We build websites and applications that perform flawlessly under
-              pressure.
+              At C&M, we believe that an exceptional digital presence shouldn't require a massive corporate budget or endless development bottlenecks. We are an agile, forward-thinking team of web developers and digital architects specializing in high-performance frontend builds, optimized user experiences, and modern cloud deployment.
+
+              We don't just build websites; we design high-converting digital storefronts and clean user interfaces tailored to help your business grow effortlessly in a modern digital economy.
             </p>
             <p className="font-mono text-sm text-muted-foreground leading-[1.8]">
-              Our team combines deep technical expertise with refined design
-              sensibility. We don't chase trends — we engineer solutions that
-              endure. Every project is treated as a piece of architecture:
-              structurally sound, aesthetically precise, and built to last.
+              We bridge the gap between creative visual design and secure, scalable web engineering. By leveraging cutting-edge development workflows, we bypass the overhead and slow turnaround times of traditional agencies—delivering sleek, professional web assets quickly and precisely.
+              Our core focus centers on two foundational pillars:
+
+              - Sleek, Responsive Design: Crafting custom layout frameworks optimized across all standard desktop, tablet, and mobile viewports to ensure seamless visual consistency and user engagement.
+
+              - Modern Cloud Deployment: Architecting clean, production-ready code pushed directly to global serverless clouds like Cloudflare. This ensures lightning-fast global load speeds, advanced edge caching, and robust security baseline configurations.
             </p>
           </div>
         </motion.div>
