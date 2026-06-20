@@ -1,3 +1,4 @@
+/* <------------ WHEN USING REMOVE
 const db = globalThis.__B44_DB__ || { auth:{ isAuthenticated: async()=>false, me: async()=>null }, entities:new Proxy({}, { get:()=>({ filter:async()=>[], get:async()=>null, create:async()=>({}), update:async()=>({}), delete:async()=>({}) }) }), integrations:{ Core:{ UploadFile:async()=>({ file_url:'' }) } } };
 
 import React, { useRef } from "react";
@@ -71,6 +72,7 @@ export default function WorkSection() {
       </div>
 
       {/* Horizontal scroll */}
+/* <------------ WHEN USING REMOVE
       <div
         ref={scrollRef}
         className="flex gap-6 md:gap-8 overflow-x-auto px-6 md:px-12 pb-6 scrollbar-hide"
