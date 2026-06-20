@@ -147,7 +147,7 @@ export default function Order() {
               {/* Pages + Deadline */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-10">
                 {[
-                  { field: "pages", label: "Estimated Pages", type: "text", placeholder: "5–10", name: "estimated_pages" },
+                  { field: "pages", label: "Estimated Pages", type: "text", placeholder: "Depending on your selected package", name: "estimated_pages" },
                   { field: "deadline", label: "Target Deadline", type: "text", placeholder: "Q4 2026", name: "deadline" },
                 ].map(({ field, label, type, placeholder, name }) => (
                   <div key={field}>
